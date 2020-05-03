@@ -1,0 +1,4 @@
+name: Library
+main: com.climpy.library.spigot.SpigotPlugin
+version: 1.0.0
+load: STARTUP

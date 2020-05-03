@@ -1,0 +1,4 @@
+name: Library
+main: com.climpy.library.bungee.BungeePlugin
+version: 1.0.0
+load: STARTUP
